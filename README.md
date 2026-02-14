@@ -1,1 +1,5 @@
-### Interactive Water Quality Monitoring System using Sentinel-2 satellite imagery
+### Text Summarization with BART Summarization
+
+Experimenting the performance:
+1. without finetuning
+2. with finetunig
