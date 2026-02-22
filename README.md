@@ -4,7 +4,7 @@ This project implements **abstractive Conversation summarization** using a pre-t
 
 The objective is to compare baseline summarization performance with a task-adapted fine-tuned model.
 
-📓 Notebook: `Text_Summarizer_Using_BART_Transformer.ipynb`
+📓 Notebook: `BART_Conversation_Summarizer_SFT.ipynb`
 
 > ⚠️ If the notebook preview does not load on GitHub, download the file and open it locally in Jupyter Notebook, or use the Google Colab link below.
 
